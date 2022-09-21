@@ -16,7 +16,7 @@
  </nav>
 </header>
 <div id="center">
-<div id="center-set"> - By Santose Naval
+<div id="center-set"> - By Sneha G M
 <div id="signup">
 <div id="signup-st">
 <div align="center">
@@ -65,7 +65,7 @@ echo ' <div id="reg-head-fail" class="headrg">Registration Failed! <br> Error: '
 </table>
 <div id="st"><input name="submit" type="submit" value="Submit" id="st-btn"/></div>
 </form>
-<div id="reg-bottom" class="btmrg">Copyright &copy; 2022 Fresherprofiles.com</div>
+<div id="reg-bottom" class="btmrg">Copyright</div>
 </div>
 </div>
 <div id="login">
@@ -92,11 +92,11 @@ echo ' <div id="reg-head-fail" class="headrg">Login Failed!, Invalid Credentials
 </table>
 <div id="st"><input name="submit" type="submit" value="Login" id="st-btn"/></div>
 </form>
-<div id="reg-bottom" class="btmrg">Copyright &copy; 2022 FresherProfiles.com</div>
+<div id="reg-bottom" class="btmrg">Copyright &copy; 2022 Resume.com</div>
 </div>
 </div>
 </div>
 </div>
-<div id="footer"><p> Copyright &copy; 2022 FresherProfiles.com </p></div>
+<div id="footer"><p> Copyright &copy; 2022 Resume.com </p></div>
 </body>
 </html>
