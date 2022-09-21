@@ -65,7 +65,7 @@ echo ' <div id="reg-head-fail" class="headrg">Registration Failed! <br> Error: '
 </table>
 <div id="st"><input name="submit" type="submit" value="Submit" id="st-btn"/></div>
 </form>
-<div id="reg-bottom" class="btmrg">Copyright</div>
+<div id="reg-bottom" class="btmrg">Copyright &copy; 2023 Resume.com</div>
 </div>
 </div>
 <div id="login">
